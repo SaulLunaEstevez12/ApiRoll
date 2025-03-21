@@ -1,4 +1,8 @@
-textblob
 fastapi
 uvicorn
 sqlalchemy
+pydantic
+passlib
+pyjwt
+python-multipart
+pyodbc
